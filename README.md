@@ -32,7 +32,7 @@ npm install eslint-config-prettier --save-dev
 
 ### Add File
 
-[ .eslintrc.json ]
+#### [ .eslintrc.json ]
 
 ```
 {
@@ -57,7 +57,7 @@ npm install eslint-config-prettier --save-dev
 }
 ```
 
-[ .prettierrc ]
+ #### [ .prettierrc ]
 
 ```
 필요에 따라 작성
