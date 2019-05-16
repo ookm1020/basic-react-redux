@@ -6,27 +6,27 @@
 
 ## Install
 
-```
+```bash
 npm install eslint --save-dev
 ```
 
-```
+```bash
 npm install eslint-config-airbnb --save-dev
 ```
 
-```
+```bash
 npm install eslint-plugin-react --save-dev
 ```
 
-```
+```bash
 npx eslint --init
 ```
 
-```
+```bash
 npm install prettier --save-dev
 ```
 
-```
+```bash
 npm install eslint-config-prettier --save-dev
 ```
 
@@ -34,7 +34,7 @@ npm install eslint-config-prettier --save-dev
 
 #### [ .eslintrc.json ]
 
-```
+```json
 {
   "env": {
     "es6": true,
